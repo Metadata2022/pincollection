@@ -2,5 +2,5 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 subject,,true
 location,,true
-color,Pin Color,,,true
-shape,Pin Shape,,,true
+color,Pin Color,,,
+shape,Pin Shape,,,
