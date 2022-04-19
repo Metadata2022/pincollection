@@ -1,7 +1,7 @@
 ##########
 # collectionbuilder-gh
 # Jekyll Digital Collection Generator, designed for GitHub Pages
-# https://github.com/CollectionBuilder/collectionbuilder-gh
+# https://github.com/Metadata2022/collectionbuilder-pincollection
 ##########
 
 ##########
@@ -12,29 +12,29 @@
 #url: https://collectionbuilder.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-#baseurl: /collectionbuilder-gh 
+#baseurl: /collectionbuilder-pincollection 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/Metadata2022/collectionbuilder-pincollection
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Lapel Pin Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A selection of 20 pins that signify memorable summer and study abroad trips. 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This pin collection are images of 20 meaningful lapel pins from my larger pin collection that I began in 2001. These selected 20 pins symbolize key places that satisfy one of these two conditions: as either from a memorable childhood summer vacation or a study abroad experience.I bought every single pin during these trips"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Metadata2022
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata 
+metadata: metadata1
 
 ##########
 # Site/Organization Branding 
