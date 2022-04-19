@@ -1,9 +1,11 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+metadata creator, Metadata Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+color,Pin color,true
+shape,Pin Shape,true
 location,Location
 latitude,Latitude
 longitude,Longitude
