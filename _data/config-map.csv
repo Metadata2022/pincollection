@@ -1,5 +1,5 @@
 field,display_name,search
 date,Date,true
-metadata creator, Metadata Creator, 
+shape, Pin Shape, true
 subject,Subjects,true
 location,Location,true
