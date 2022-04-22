@@ -24,6 +24,3 @@ I collected a few pins during two study abroad exchanges in France and one colle
 
 For more information on my study abroad trip to China visit this site:
  {% include feature/button.html text="Click Here" link="https://lingodonoghue.wixsite.com/mysite" color="primary" %}
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
