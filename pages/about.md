@@ -14,22 +14,13 @@ credits: true
 
 ## About the Collection
 
-{% include feature/image.html objectid="coll014" width="75" %}
+{% include feature/image.html objectid="coll011" width="75" %}
 
 This lapel pin collection began on a whim to buy pins bought to commemorate family trips. The first one in this collection is from my first visit to St. Louis' famous Archway. Soon after, my habit of collecting lapel pins grew. These selected pins fall under two broad categories: 1) family summer/ spring break trips 2) school study abroad trips. 
 
 Out of my family trips, the most memorable trip is my summer of caves. My family decided to stop at any "brown sign" or State Park sign on our way to visit my Grandpa in Tennesee. Our decision led to a summer of exploring caves. One of the tour guides described the bats that called the cave their home as "furry chicken nuggets." Since hearing this description, I've always been reminded of the term. 
 
 I collected a few pins during two study abroad exchanges in France and one college semester in China. These trips were school coordinated and ignited my love of languages. These few pins bring back memories of my classmates, language teachers, and exchange pin pals. These lapel pins span from cave exploring in Kentucky to a semester abroad in China. Each pin selected holds a special memory that I can access and share anytime. 
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
