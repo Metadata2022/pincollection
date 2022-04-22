@@ -22,8 +22,8 @@ Out of my family trips, the most memorable trip is our summer of caves. My famil
 
 I collected a few pins during two study abroad exchanges in France and one college semester in China. These trips were school coordinated and ignited my love of languages. These few pins bring back memories of my classmates, language teachers, and exchange pin pals. These lapel pins span from cave exploring in Kentucky to a semester abroad in China. Each pin selected holds a special memory that now with this digital collection I can access and share anytime. 
 
-For more information on my study abroad trip visit this site:
- {% include feature/button.html text="Click Here" link="https://lingodonoghue.wixsite.com/mysite" color="success" %}
+For more information on my study abroad trip to China visit this site:
+ {% include feature/button.html text="Click Here" link="https://lingodonoghue.wixsite.com/mysite" color="warning" %}
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
