@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://live.staticflickr.com/7440/9183370232_ab8d86b1da_h.jpg" %} 
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
 
